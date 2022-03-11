@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+    Hello world
+<title/>
+<style>
+    div{
+        font-size: 18px;
+    }
+    </style>
+<head/>
+<body>
+    <h2>dog</h2>
+     <form>
+         <div>
+             <input name = "name" type="text" placeholder = "Name">
+             <input name = "password" type="password" placeholder = "Password">
+         </div>
+     </form>
+    <body/>
+<html/>
