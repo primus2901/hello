@@ -7,6 +7,9 @@
 <style>
     div{
         font-size: 18px;
+        padding: 20px;
+        width: 40px;
+        margin: 14px;
     }
     </style>
 <head/>
